@@ -3,7 +3,6 @@ module github.com/Dany0814/gin-api
 go 1.18
 
 require (
-	github.com/CodelyTV/go-hexagonal_http_api-course v0.0.0-20210224011950-bfd8a00f21ed
 	github.com/gin-gonic/gin v1.8.1
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/huandu/go-sqlbuilder v1.14.0
